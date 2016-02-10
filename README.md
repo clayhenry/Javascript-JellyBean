@@ -1,5 +1,6 @@
 # Javascript-JellyBean
-Input element-list to better manage multiple, submittable content 
+Input element-list to better manage multiple, submittable content.
+Inspired by LinkedIn "Add Skill"  feature.
 
 ![alt text](https://github.com/clayhenry/Javascript-JellyBean/blob/master/jellyBean.jpg "JellyBean")
 
