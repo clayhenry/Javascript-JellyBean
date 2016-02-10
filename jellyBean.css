@@ -1,0 +1,36 @@
+ .jellybean {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 12px;
+        }
+        
+        .jellybean .bean {
+            font-size: 12px;
+            display: inline-block;
+            height: 25px;
+            margin: 5px;
+            box-shadow: 1px 1px 1px #d9d9d9;
+            border-radius: 2px;
+            background: #f0f0f0;
+            color: black;
+        }
+        
+        .jellybean .bean .beanContent {
+            line-height: 25px;
+            padding: 0 10px;
+        }
+        
+        .jellybean .bean .remove {
+            display: block;
+            float: right;
+            cursor: pointer;
+            border-left: 1px solid #cccccc;
+            font-size: 20px;
+            padding: 0 5px;
+            height: 100%;
+            line-height: 25px;
+            font-weight: normal;
+        }
+        
+        .jellybean .bean .remove:hover {
+            color: #2e6da4
+        }
