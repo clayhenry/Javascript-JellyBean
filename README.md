@@ -5,7 +5,7 @@ Input element-list to better manage submittable content
 
 
 ## Requirements
-Javascript: Standard ECMA 5.1 +
+Javascript: Standard ECMA 5.1, 
 Bootstrap 3.3 (Optional)
 
 ##Tested
