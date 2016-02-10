@@ -46,7 +46,7 @@
                     },
                     
                           formSubmit : function(event){
-                     //entr key press will add a jellybean and not submit the form
+                     //enter key press will add a jellybean and not submit the form
                                       
                      if(event.keyCode == 13 || event.which == 13)
                      {
