@@ -41,6 +41,7 @@
                         if(event.target.className == "remove"){
                             //remove item
                           event.target.parentNode.style.display="none";
+                          event.target.parentNode.removeChild(event.target.parentNode.childNodes[0])
                             
                            }
                     },
