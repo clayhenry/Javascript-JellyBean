@@ -1,4 +1,4 @@
-  var Jellybean = function(){
+  var jellybean = function(){
             var bean = {
                 
                    getValue : function(){ 
@@ -65,4 +65,4 @@
             return bean
         }      
         
-        var jelly = new Jellybean();
+        var jelly = jellybean();
